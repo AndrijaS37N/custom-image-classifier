@@ -1,6 +1,4 @@
 # custom-image-classifier
-Topics not managed yet.
-
 Huge part of this is actually <b>help</b> from: 
 [pyimagesearch.com](https://www.pyimagesearch.com/)
 
