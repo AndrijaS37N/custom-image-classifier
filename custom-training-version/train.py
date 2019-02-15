@@ -16,7 +16,9 @@ import os
 # USAGE:
 # python train.py --dataset dataset --model arguments.model --labelbin mlb.pickle
 
-# WHEEL FILE: /Users/andrijadjuric/PycharmProjects/tensorflow-1.12.0-cp37-cp37m-macosx_10_13_x86_64.whl
+# Note: The .whl file mentioned below is what I used.
+
+# WHEEL FILE: /Users/'your-local-username'/PycharmProjects/tensorflow-1.12.0-cp37-cp37m-macosx_10_13_x86_64.whl
 
 print("TensorFlow version:", tf.__version__)
 
