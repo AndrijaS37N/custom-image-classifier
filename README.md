@@ -19,4 +19,4 @@ Note: Using a specific TensorFlow 1.12 .whl file for my own architecture.
 
 #### Project results:
 <h6>View 1</h6>
-<img src="screen-shots/view-1.png" height="500" alt="View 1">
+<img src="snapshots/view-1.png" height="500" alt="View 1">
